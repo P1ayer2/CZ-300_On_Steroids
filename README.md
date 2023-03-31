@@ -9,7 +9,7 @@ Hello there fellow maker, and welcome to the first community page for the Crazy3
 ## Background
 I initially planned on selling the designs and firmware for my modified CZ-300. However, after realizing how many of you fellow makers wanted a community page for this printer, i decided to make this project open-source for anyone to use. I bought my printer from 3DPrima, as they sold it for just £169 shipped. As most of us soon realized, though, this printer needed a lot of work. This is where my journey began. 
 
-As of the the date this repository was created, i have spent countless of hours and dollars measuring, modeling, creating and printing parts for this printer. Most parts required multiple revisions to get them perfect. As i've now decided to make this project open-source, i would very much appreciate any donations as a thanks. [Buy me a coffe!](https://paypal.me/navilhossain2)
+As of the the date this repository was created, i have spent countless of hours and dollars measuring, modeling, creating and printing parts for this printer. Most parts required multiple revisions to get them perfect. As i've now decided to make this project open-source, i would very much appreciate any donations as a thanks. [Buy me a coffee!](https://paypal.me/navilhossain2)
 
 ## Documentation 
 Under the documentation folder you will find any and all documentation and information collected about the printer. This includes the origin of parts, links to forums, manuals, and much more. 
