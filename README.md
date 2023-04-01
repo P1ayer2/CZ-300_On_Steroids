@@ -12,4 +12,10 @@ I initially planned on selling the designs and firmware for my modified CZ-300. 
 As of the the date this repository was created, i have spent countless of hours and dollars measuring, modeling, creating and printing parts for this printer. Most parts required multiple revisions to get them perfect. As i've now decided to make this project open-source, i would very much appreciate any donations as a thanks. [Buy me a coffee!](https://paypal.me/navilhossain2)
 
 ## Documentation 
-Under the documentation folder you will find any and all documentation and information collected about the printer. This includes the origin of parts, links to forums, manuals, and much more. 
+Under the documentation folder you will find any and all documentation and information collected about the printer. This includes the origin of parts, links to forums, manuals, road-plans, and back-ups of official documentation. 
+
+## Firmware
+Under firmware you will find Marlin configuration files and back-ups of official firmware, shall their site go down. 
+
+## Mods
+This should be the most exciting part of this project. Here lies links to public modification as well as those made by contributers to this repository. 
