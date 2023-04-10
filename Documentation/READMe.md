@@ -1,6 +1,6 @@
 # About this printer
 
-The CZ-300 is sold by a company called Crazy3DPrint, which seems to be a branch of XYZPrinting. Seeing as a lot of the parts for the CZ-300 are loaned from XYZPrinting's Davinci Series, this makes sense. Therefore, forums and files for some DaVinci models applies for this printer as well. After close inspection, it seems like Crazy3DPrint planned on selling "add-on" modules for this printer. I say this because fitting a second linear rod for example, needs a custom piece of plastic which was never included. The same goes for the hotend, as there seems to be additional "slots" for mounting an ABL-sensor or part cooling-fan. I could not confirm or find any additional modules myself. 
+The CZ-300 is sold by a company called Crazy3DPrint, which seems to be a branch of XYZPrinting. Seeing as a lot of the parts for the CZ-300 are from XYZPrinting’s Davinci Series, this makes sense. Therefore, forums and files for some DaVinci models applies for this printer as well. After close inspection, it seems like Crazy3DPrint planned on selling “add-on” modules for this printer. I say this because fitting a second linear rod for example, needs a custom piece of plastic which was never included. The same goes for the hotend, as there seems to be additional “slots” for mounting an ABL-sensor or part cooling-fan. I could not confirm or find any additional modules myself.
 
 ## Parts list 
 ### Frame: 
