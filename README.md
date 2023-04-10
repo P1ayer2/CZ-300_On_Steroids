@@ -6,6 +6,9 @@ This repository aims to improve the Crazy3DPrint CZ-300 for faster, better and m
 ## Welcome!
 Hello there fellow maker, and welcome to the first community page for the Crazy3DPrint CZ-300! I hope that this page inspires many of you to experiment and get out of your comfort zone. Feel free to use, modify and personalize your CZ-300 using the resources in this repository. As a favor, though, i ask of one thing: give as much back as you can! Feel free to send in new STL:s, designs, questions, and/or other contributions. Your work is much appreciated! 
 
+## "Should i buy this printer?"
+Remember that a lot of information about the value-factor of this printer should be taken with a grain of salt. These can be subjective opinions and, at the end of the day, it is you who must decide if you are willing to pour time and money to unlock the full potential of this printer. To put it shortly: if you are a tinkering type, this printer is probably something for you. If not, maybe a completed and open-source printer with better community support is something for you. Although i do not aim to discourage beginners wanting to buy this printer, i would advise against it. For most people learning the basics of 3D-printing can be frustrating and it takes time, practice and troubleshooting. Therefore, starting on something intended for beginners is recommended. Like the age old saying goes, *Don't run before you can walk!*
+
 ## Background
 I initially planned on selling the designs and firmware for my modified CZ-300. However, after realizing how many of you fellow makers wanted a community page for this printer, i decided to make this project open-source for anyone to use. I bought my printer from 3DPrima, as they sold it for just £169 shipped. As most of us soon realized, though, this printer needed a lot of work. This is where my journey began. 
 
