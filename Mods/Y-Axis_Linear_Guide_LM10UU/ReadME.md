@@ -25,10 +25,10 @@ Completely support-free design. Should be printed in a pretty strong material bu
 5. Align the plate and rods, centering and taking in to account the deviation. This is best done by sliding the plate as closely as possible to the mounts, then tightening them. Be sure to center them first, though. 
 6. Turn the printer to the side and install the Y-Axis clamp for the belt, putting even pressure on all 4 screws. It is best to put a piece of belt, the same length as the clamp, to the opposite side of the printers Y-Axis belt. This will increase friction and could supress other problems. 
 
-## Images
-![Prototype, belt tensioner hitting motor (fixed](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4393.png)
+## Images (Note that most are prototypes)
 ![Prototype, issue high belt stress (fixed)](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4395.png)
 ![Prototype, issue stop not hitting mechanical switch (fixed)](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4396.png)
 ![Close up, very similar to finished (and released) V1 design](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4397.png)
 ![Clearance of prototype](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4398.png)
+![Prototype, belt tensioner hitting motor (fixed](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4393.png)
 ![Finished product and my messy room](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4399.png)
