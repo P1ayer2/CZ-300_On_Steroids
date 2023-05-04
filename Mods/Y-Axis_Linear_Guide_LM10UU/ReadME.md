@@ -4,9 +4,9 @@ Keep in mind that these bearings can be a bit noisy, but should otherwise requir
 # Hardware: 
 4 pieces LM10UU linear bearings 
 
-10x M3x12mm screws + 10x M3 bolts. (Mounts)
-8x M3x25mm screws + 8x M3 bolts. (Carrier plate)
-2x M4x8mm screws + 2x M4 bolts. Longer screws *should* work. (Carrier plate, 2 centre screws)
+- 10x M3x12mm screws + 10x M3 bolts. (Mounts)
+- 8x M3x25mm screws + 8x M3 bolts. (Carrier plate)
+- 2x M4x8mm screws + 2x M4 bolts. Longer screws *should* work. (Carrier plate, 2 centre screws)
 
 ## Print instructions:
 Completely support-free design. Should be printed in a pretty strong material but i printed it in PLA. Considering the low heat-resistance requirements this should be fine but i would still recommend printing in a generally stronger material such as ABS or ASA. 
