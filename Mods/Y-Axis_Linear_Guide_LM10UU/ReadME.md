@@ -26,3 +26,10 @@ Completely support-free design. Should be printed in a pretty strong material bu
 6. Turn the printer to the side and install the Y-Axis clamp for the belt, putting even pressure on all 4 screws. It is best to put a piece of belt, the same length as the clamp, to the opposite side of the printers Y-Axis belt. This will increase friction and could supress other problems. 
 
 ## Images
+![Image 1](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4392.png)
+![Image 2](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4393.png)
+![Image 3](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4395.png)
+![Image 4](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4396.png)
+![Image 5](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4397.png)
+![Image 6](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4398.png)
+![Image 7](https://github.com/P1ayer2/CZ-300_On_Steroids/blob/main/Mods/Y-Axis_Linear_Guide_LM10UU/Images/IMG_4399.png)
