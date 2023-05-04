@@ -30,12 +30,12 @@ Some pro's and con's on this printer:
 \- Proprietary, rare, unusual and somewhat outdated components. \
 \- Replacement parts are very expensive, difficult to find and no clones are available. \
 \- Stock nozzles has non-standard threads and are only sold for unreasonable prices with just brass or steel .4mm nozzles available. \
-\- Heavy components, no belt tensioning and very long bowden tube equals slow stock print speeds and print materials. 
+\- Heavy components, no belt tensioning and very long bowden tube equals to slow stock print speeds and print materials. 
 
 
-Though do keep in mind that the negatives for this printer is eliminated when modifcated, like with a new hotend or open-source motherboard. For more details on the work needed for this printer to exceed, see the documentation. Would highly recommend checking the roadmap if you are still hesitant. 
+Though do keep in mind that the negatives for this printer is eliminated when modifcated, like with a new hotend or open-source motherboard. For more details on the work needed for this printer to exceed, see the documentation. Would highly recommend checking the roadmap (not yet released) if you are still hesitant. 
 
-## Background
+## Show your support! 
 
 I initially planned on selling the designs and firmware for my modified CZ-300. However, after realizing how many of you fellow makers wanted a community page for this printer, i decided to make this project open-source for anyone to use. I bought my printer from 3DPrima, as they sold it for just £169 shipped. As most of us soon realized, though, this printer needs a lot of work. This is where my journey had begun. 
 
