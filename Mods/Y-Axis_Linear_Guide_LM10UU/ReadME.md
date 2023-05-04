@@ -23,6 +23,6 @@ Completely support-free design. Should be printed in a pretty strong material bu
 3. Install the linear rod mounts, making sure to not tighten the screw. The mounts should be able to slide along the 2020 extrusion. Slide the linear rods in to the mounts, leaving space for the carrier plate to be installed. 
 4. Install the carrier plate in to the linear rods, slide the rod through the entire plate and insert it into the other mount. 
 5. Align the plate and rods, centering and taking in to account the deviation. This is best done by sliding the plate as closely as possible to the mounts, then tightening them. Be sure to center them first, though. 
-6. Turn the printer to the side and install the Y-Axis clamp, putting even pressure on all 4 screws. 
+6. Turn the printer to the side and install the Y-Axis clamp for the belt, putting even pressure on all 4 screws. It is best to put a piece of belt, the same length as the clamp, to the opposite side of the printers Y-Axis belt. This will increase friction and could supress other problems. 
 
 ## Images
