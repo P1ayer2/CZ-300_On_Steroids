@@ -12,7 +12,7 @@ Hello there fellow maker, and welcome to the first community page for the Crazy3
 
 ## Hesitant on whether or not you should buy this printer? 
 
-Remember that a lot of information about the value-factor of this printer should be taken with a grain of salt. These can be subjective opinions and, at the end of the day, **it is you who must decide if you are willing to pour time and money in to unlock the full potential of this printer.**
+Remember that a lot of information about the value-factor of this printer should be taken with a grain of salt. These can be subjective opinions and, at the end of the day, **it is you who must decide if you are willing to pour time and money in to unlocking the full potential of this printer.**
 
 To put it shortly: if you are a tinkering type, this printer is probably something for you. If not, maybe a more standard and open-source printer with better community support is better suited. Although i do not aim to discourage beginners wanting to buy this printer, i would advise against it. For most people learning the basics of 3D-printing can be frustrating and it takes time, practice and troubleshooting, especially without any prior knowledge of electronics, mechanics or maybe programming. Therefore, starting on something intended for beginners is recommended. This printer simply has a lot of quirks and non-standard components. This, in combination with old software, difficult leveling and the non-existant community support can lead to great frustration down the road. If you still feel like you have the guts to take this printer on, i say go for it! But like the age old saying goes, *Don't run before you can walk!*
 
