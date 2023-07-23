@@ -1,7 +1,7 @@
 ### Big thanks to @jnorre for reverse-engineering all pins on this motherboard! 
 
 ## Pins
-Rev.2 June 25 2023
+Rev.2 June 25 2023 
 
 [End stops]
 x-stop: SIG-GND-3V3	SIG (IN) = pin 75 = PC17
